@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Savent Inventario</string>
+
+    <string name="company">Empresa</string>
+    <string name="companies">Empresas</string>
+    <string name="company_not_found">Error al obtener la empresa</string>
+    <string name="get_companies_error">Error al obtener las empresas</string>
+    <string name="update_products_error">Error al actualizar el listado de empresas</string>
+    <string name="company_required">Selecciona una empresa para iniciar</string>
+    <string name="fecth_companies_error">Error al cargar las empresas</string>
+
+    <string name="store_not_found">Error al obtener el almacén</string>
+    <string name="get_stores_error">Error al obtener los almacenes</string>
+    <string name="update_stores_error">Error al actualizar el listado de almacenes</string>
+    <string name="restaurant_required">Selecciona un almacén para iniciar</string>
+    <string name="restaurants">Almacenes</string>
+    <string name="fetch_restaurants_error">Error al cargar los almacenes</string>
+    <string name="product_not_found">Producto no encontrado</string>
+    <string name="barcode_not_found">Código de barras no encontrado</string>
+    <string name="get_products_error">Error al obtener los productos</string>
+    <string name="get_entries_error">Error al obtener el inventario</string>
+    <string name="update_entries_error">Error al actualizar el inventario</string>
+    <string name="save_data_error">Error al guardar los datos</string>
+    <string name="retrieve_data_error">Error al obtener los datos</string>
+    <string name="get_session_error">Error al obtener la sesion de usuario</string>
+    <string name="empty_rfc">Rfc vacío</string>
+    <string name="invalid_rfc">Rfc inválido</string>
+    <string name="empty_pin">Pin vacío</string>
+    <string name="login_error">Error al iniciar sesión</string>
+    <string name="fetch_products_error">Error al cargar los productos</string>
+    <string name="insert_entry_error">"Error al insertar la nueva entrada"</string>
+    <string name="fetch_entries_error">Error al cargar el inventario</string>
+    <string name="entry_not_found">Error al obtener la entrada</string>
+
+    <string name="internet_error">Sin conexión a internet!</string>
+    <string name="store_required">Selecciona un almacen para continuar</string>
+    <string name="stores">Almacenes</string>
+    <string name="search">Buscar...</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="savent">Savent</string>
+    <string name="inventory">Inventario</string>
+    <string name="rfc_hint">Rfc</string>
+    <string name="pin_hint">Pin</string>
+    <string name="store">Almacén</string>
+    <string name="login">Entrar</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="products">Productos</string>
+    <string name="see_inventory">Ver Inventario</string>
+    <string name="group">Bloque</string>
+    <string name="register">Registrar</string>
+    <string name="close_session">Cerrar Sesión</string>
+    <string name="add_amount">Agrega una cantidad</string>
+    <string name="filter_by_store">Filtrar por almacén</string>
+    <string name="clear_filters">Limpiar filtros</string>
+    <string name="title_activity_bar_code_scanner">BarCodeScannerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="one_decimal">1.00</string>
+    <string name="add_group_required">Agregue un bloque</string>
+    <string name="add_group">Agregar bloque</string>
+    <string name="one">1</string>
+    <string name="group_not_found">Bloque no encontrado</string>
+    <string name="get_groups_error">Error al obtener los bloques</string>
+    <string name="group_delete_error">Error al eliminar el bloque</string>
+    <string name="group_insert_error">Error al guardar el bloque</string>
+    <string name="add_new_group">Agregar nuevo bloque</string>
+    <string name="save">Guardar</string>
+    <string name="add_new">Agregar nuevo</string>
+    <string name="groups">Bloques</string>
+</resources>
